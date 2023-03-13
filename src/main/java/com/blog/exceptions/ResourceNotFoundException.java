@@ -16,6 +16,4 @@ public class ResourceNotFoundException extends RuntimeException{
 	String resoutceName;
 	String fieldName;
 	long fieldValue;
-	
-	
 }
